@@ -1,0 +1,5 @@
+*.class
+Doc1.docx
+~$Doc1.docx
+*.jpg
+tempCodeRunnerFile.java
